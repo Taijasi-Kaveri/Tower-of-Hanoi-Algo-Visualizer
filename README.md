@@ -3,10 +3,10 @@ This is a JavaFX application that visualizes the Tower of Hanoi algorithm. The T
 
 The objective of the puzzle is to move the entire stack to another rod, obeying the following simple rules:
 
-*Only one disk can be moved at a time.
-*Each move consists of taking the upper disk from one of the stacks and placing it on top of another stack or on an empty rod.
-*No disk may be placed on top of a smaller disk.
-Features
-*The user can set the number of disks to be used in the puzzle.
-*The user can visualize the algorithm in action.
-The user can see the number of moves required to complete the puzzle.
+* Only one disk can be moved at a time.
+* Each move consists of taking the upper disk from one of the stacks and placing it on top of another stack or on an empty rod.
+* No disk may be placed on top of a smaller disk.
+## Features
+* The user can set the number of disks to be used in the puzzle.
+* The user can visualize the algorithm in action.
+* The user can see the number of moves required to complete the puzzle.
